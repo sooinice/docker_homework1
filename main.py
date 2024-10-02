@@ -8,7 +8,7 @@ def main():
     num1 = int(input('Enter the first number: '))
     num2 = int(input('Enter the second number: '))
 
-    addition_result = num1 + num2
+    addition_result = (num1 + num2) ** 2
     subtraction_result = num1 - num2
     multiplication_result = num1 * num2
     
